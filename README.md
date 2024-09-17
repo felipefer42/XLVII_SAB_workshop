@@ -1,4 +1,4 @@
-![S-PLUS Logo](https://splus.cloud/images/SiglaExtenso_Colorido1_TextoAzulEscuro.png)
+![S-PLUS Logo](https://splus.cloud/images/splus_logo_fundo_branco.jpg)
 
 # Workshop
 
