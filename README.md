@@ -17,4 +17,4 @@ The content of this workshop was presented at XLVII Reunião Anual da SAB, held 
  - [Fast query with lsdb](content/lsdb_query.ipynb)
 
 ### 3. Science Case
- - [Science Case example](content/science_case.ipynb)
+ - [Science Case example](content/hands-on)
