@@ -11,27 +11,29 @@ the exercise require data from the the S-PLUS DR4, associated VACs and the
 
 ## Proposed science cases:
 
->1. Create a [galaxy CMD][7] (e.g., *g-r* vs *r*) diagram for galaxies identified by
-the [S-PLUS DR4 QSO/star/galaxy VAC][8] and make a *mag* vs *filter* plot for the
-5 objects with higher **J0660** magnitude.
->2. Create an [observational H.R. Diagram][9] for stars identified by the same
-catalog, crossmatching with [GAIA DR3 catalog][6] for the desired region.
+>1. Create a [H.R. Diagram][9] for stars identified by DR4/PSF catalog, 
+crossmatching with [GAIA DR3 catalog][6] for the desired region.
+>1. Create an [observational galaxy CMD][7] (e.g., *g-r* vs *r*) diagram for 
+galaxies identified by the [S-PLUS DR4 QSO/star/galaxy VAC][8], search among
+the objects for the big ones to find a galaxy. With galaxy we can create a 
+Flux and Errors datacube using S-Cubes. After that make some plots with the
+created galaxy cube.
 
 ## Additional information
 
 - For both cases, feel free to search for the celestial coordinates (right
 ascencion and declination) used in this hands-on exercise. In order to check
 if some coordinate is available at any S-PLUS datarelease, use the
-[check coordinate tool][11].
+[check coordinate tool][11]. *We will present a list of possible positions
+at the beggining of each solution notebook.
 - The [S-PLUS DR4][1] provides data for six different appertures (*PStotal*,
 *aper_3*, *aper_6*, *auto*, *petro* and *iso*).
-> The suggestion is to use **PStotal** aperture when available. Read more
-about the different appertures and photometry modes at [S-PLUS DR4 paper][1] 
-or [S-PLUS DR4 on-line documentation][10].
-- Look for the code examples given at last classes.
+> Read more about the different appertures and photometry modes at 
+[S-PLUS DR4 paper][1] or [S-PLUS DR4 on-line documentation][10].
 - [GAIA DR3][6] has a HiPSCat to use with [LSDB][2] with some limitations.
 > Read more about GAIA DR3 HiPSCat: <https://data.lsdb.io/>
-- Questions? [S-PLUS DR4 FAQ][12]
+- Questions? [S-PLUS DR4 FAQ][12] or send an e-mail to:
+[dhubax\@gmail.com](mailto:dhubax@gmail.com?subject=SABWorkshop)
 
 [1]: <https://www.aanda.org/articles/aa/pdf/forth/aa49725-24.pdf> "The Fourth S-PLUS Data Release: 12-filter photometry covering ~3000 square degrees in the southern hemisphere"
 [2]: <https://lsdb.readthedocs.io/en/stable/> "Large Survey DataBase python framework"
