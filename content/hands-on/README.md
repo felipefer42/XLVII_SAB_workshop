@@ -15,9 +15,11 @@ the exercise require data from the the S-PLUS DR4, associated VACs and the
 crossmatching with [GAIA DR3 catalog][6] for the desired region.
 >1. Create an [observational galaxy CMD][7] (e.g., *g-r* vs *r*) diagram for 
 galaxies identified by the [S-PLUS DR4 QSO/star/galaxy VAC][8], search among
-the objects for the big ones to find a galaxy. With galaxy we can create a 
-Flux and Errors datacube using S-Cubes. After that make some plots with the
-created galaxy cube.
+the objects for the big ones to find a galaxy to create an IFS-like cube 
+with S-PLUS data using [S-Cubes][13] during the last part of this workshop. 
+Right now we just need to save its S-PLUS Field name, coordinates (RA and DEC)
+and a guess of the size (in pixels) to create the *SCUBE* with the entire
+galaxy.
 
 ## Additional information
 
@@ -47,3 +49,4 @@ at the beggining of each solution notebook.
 [10]: <https://splus.cloud/documentation/DR4?Photometry> "S-PLUS DR4 on-line documentation"
 [11]: <https://splus.cloud/catalogtools/checkc> "S-PLUS check coordinate tool"
 [12]: <https://splus.cloud/documentation/DR4?FAQ> "S-PLUS DR4 FAQ"
+[13]: <https://elacerda.github.io/s-cubes/> "S-Cubes homepage"
