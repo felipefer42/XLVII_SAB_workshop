@@ -1,0 +1,3 @@
+git+https://github.com/elacerda/s-cubes.git
+lsdb
+jupyterlab
