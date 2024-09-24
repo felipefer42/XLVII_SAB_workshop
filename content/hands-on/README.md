@@ -49,4 +49,4 @@ at the beggining of each solution notebook.
 [10]: <https://splus.cloud/documentation/DR4?Photometry> "S-PLUS DR4 on-line documentation"
 [11]: <https://splus.cloud/catalogtools/checkc> "S-PLUS check coordinate tool"
 [12]: <https://splus.cloud/documentation/DR4?FAQ> "S-PLUS DR4 FAQ"
-[13]: <https://elacerda.github.io/s-cubes/> "S-Cubes homepage"
+[13]: <https://splus-collab.github.io/s-cubes/> "S-Cubes homepage"
