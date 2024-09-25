@@ -30,8 +30,14 @@ To install splusdata, S-Cubes, Jupyter and LSDB, simply run:
 ### 1. Introduction to S-PLUS
 
 ### 2. S-PLUS Data Structures
- - [Intro to splus.cloud and splusdata](content/splus_website_and_python.ipynb)
- - [Fast query with lsdb](content/lsdb_query.ipynb)
+ - [Intro to splus.cloud and splusdata](content/splus%20basics/1.splus_website_and_python.ipynb)
+ - [Fast query with lsdb](content/splus%20basics/2.lsdb_query.ipynb)
+ - [Extinction Correction and Zero Points in Astronomical Data](content/splus%20basics/3.%20getting_zps_nd_extiction.ipynb)
 
-### 3. Science Case
- - [Science Case example](content/hands-on)
+### 3. Hands-on: S-PLUS data use - some science cases
+ - [H.R. diagram of a cluster](content/hands-on/1st_science_case_solution.ipynb)
+ - [Galaxy crosmatch and a color-magnitude diagram](content/hands-on/2nd_science_case_solution.ipynb)
+
+### 4. S-Cubes: Creating IFS-like cubes with S-PLUS data
+ - [S-Cubes pdf presentation](content/hands-on/s-cubes/presentation.pdf)
+ - [Creating a cube and check result](content/hands-on/s-cubes/scubes.ipynb)
