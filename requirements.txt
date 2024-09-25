@@ -1,3 +1,8 @@
 git+https://github.com/elacerda/s-cubes.git
 lsdb
 jupyterlab
+matplotlib
+splusdata
+pandas
+numpy
+photutils
