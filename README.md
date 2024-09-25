@@ -11,7 +11,7 @@ The content of this workshop was presented at XLVII Reunião Anual da SAB, held 
 - [S-Cubes](https://github.com/elacerda/s-cubes) to create IFS-like galaxy cubes
 - [Jupyter](https://jupyter.org/) to run the notebooks to open the classes and exercises notebooks
 - [LSDB](https://lsdb.readthedocs.io/) to deal with big catalogs
-- **S-Cubes** requires [Source-extractor (*SEXtractor*)](https://sextractor.readthedocs.io/en/latest/index.html) installed either *locally* or *system-wide* 
+- **S-Cubes** requires [Source-extractor (*SEXtractor*)](https://sextractor.readthedocs.io/en/latest/index.html) installed either *locally* or *system-wide* (*to install with aptitude: sudo apt install source-extractor*)
 - An user account at [S-PLUS Cloud](https://splus.cloud/) in order to access the necessary data.
 
 ## Installation 
