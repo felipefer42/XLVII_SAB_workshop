@@ -35,7 +35,7 @@ To install splusdata, S-Cubes, Jupyter and LSDB, simply run:
  - [Extinction Correction and Zero Points in Astronomical Data](content/splus%20basics/3.%20getting_zps_nd_extiction.ipynb)
 
 ### 3. Hands-on: S-PLUS data use - some science cases
- - [H.R. diagram of a cluster](content/hands-on/1st_science_case_solution.ipynb)
+ - [H.R. diagram of a cluster of stars](content/hands-on/1st_science_case_solution.ipynb)
  - [Galaxy crosmatch and a color-magnitude diagram](content/hands-on/2nd_science_case_solution.ipynb)
 
 ### 4. S-Cubes: Creating IFS-like cubes with S-PLUS data
