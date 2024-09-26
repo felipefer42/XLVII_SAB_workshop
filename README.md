@@ -22,7 +22,7 @@ To install splusdata, S-Cubes, Jupyter and LSDB, simply run:
 
 ## About S-PLUS
 
-[Slides](https://docs.google.com/presentation/d/1EwYEEQYWXnXmvQsbQF_eIldMBQ6A76lXZR1fW4ZVbco/edit?usp=sharing)
+[Slides](https://github.com/splus-collab/XLVII_SAB_workshop/blob/main/slides_splus_workshop.pdf)
 
 
 ## Tutorials
