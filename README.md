@@ -8,7 +8,7 @@ The content of this workshop was presented at XLVII Reunião Anual da SAB, held 
 
 - Python 3.8
 - [splusdata](https://github.com/Schwarzam/splusdata) to access S-PLUS data.
-- [S-Cubes](https://github.com/elacerda/s-cubes) to create IFS-like galaxy cubes
+- [S-Cubes](https://github.com/splus-collab/s-cubes) to create IFS-like galaxy cubes
 - [Jupyter](https://jupyter.org/) to run the notebooks to open the classes and exercises notebooks
 - [LSDB](https://lsdb.readthedocs.io/) to deal with big catalogs
 - **S-Cubes** requires [Source-extractor (*SEXtractor*)](https://sextractor.readthedocs.io/en/latest/index.html) installed either *locally* or *system-wide* (*to install with aptitude: sudo apt install source-extractor*)
@@ -40,5 +40,5 @@ To install splusdata, S-Cubes, Jupyter and LSDB, simply run:
  - [Extra] [Radial Profile Analysis with S-PLUS data](content/hands-on/3rd_science_case_solution.ipynb)
 
 ### 4. S-Cubes: Creating IFS-like cubes with S-PLUS data
- - [S-Cubes pdf presentation](content/hands-on/s-cubes/presentation.pdf)
- - [Creating a cube and check result](content/hands-on/s-cubes/scubes.ipynb)
+ - [S-Cubes pdf presentation](content/s-cubes/presentation.pdf)
+ - [Creating a cube and check result](content/s-cubes/scubes.ipynb)
